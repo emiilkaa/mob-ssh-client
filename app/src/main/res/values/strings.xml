@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SSH Client</string>
+    <string name="hostname">Hostname</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="type_your_command_here">Type your command here</string>
+    <string name="send">Send</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
